@@ -28,6 +28,8 @@ function createDiv() {
         document.querySelector("containet").prepend(newDiv);
         inputHeight.setAttribute("readonly", 1);
         inputWidth.setAttribute ("readopnly", 1);
+        
+        isDiv - true
     }   
     }
 }
