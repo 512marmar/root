@@ -1,0 +1,18 @@
+.btn_create,
+.btn_clear,
+.btn_rewers{
+    width: 100px;
+    height: 50px;
+    background-color: #cccccc;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.conteiner{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+}
